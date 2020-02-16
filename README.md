@@ -1,6 +1,9 @@
 # shiny-hunt
 Automated pokemon breeding in Sword and Shield for shiny hunting.
 
+[![Alt text](https://img.youtube.com/vi/I9DEk7lA5xM/0.jpg)](https://www.youtube.com/watch?v=I9DEk7lA5xM)
+
+
 
 ### Getting Started With Teensy
 * Purchase a [Teensy](https://www.pjrc.com/store/teensypp.html) ++ V2.0 USB development board from PJRC. At the time of this repository readme write up it was $24.00. PJRC shipped my order within 24 hours and it took about a week to arrive.
