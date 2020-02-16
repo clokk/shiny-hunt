@@ -17,4 +17,4 @@ Automated pokemon breeding in Sword and Shield for shiny hunting.
 * I included LUFA in this project which is required for the Teensy board to emulate the HORI Pokken Tournament Pro Pad for Wii U which the switch recognizes as a pro controller.
 * If LUFA is not working after cloning this repo, You can download the LUFA library in a zipped folder at the bottom of [this page](http://www.fourwalledcubicle.com/LUFA.php).
 ### Thanks
-* Special thanks to github user [bertrandom]https://github.com/bertrandom/snowball-thrower who made a similar script for legend of zelda breathe of the wild. I learned how to approach this problem through his well written write up on [medium]https://medium.com/@bertrandom/automating-zelda-3b37127e24c8.
+* Special thanks to github user [bertrandom](https://github.com/bertrandom/snowball-thrower) who made a similar script for legend of zelda breathe of the wild. I learned how to approach this problem through his well written write up on [medium](https://medium.com/@bertrandom/automating-zelda-3b37127e24c8).
