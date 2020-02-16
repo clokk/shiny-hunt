@@ -1,8 +1,7 @@
 # shiny-hunt
-Automated pokemon breeding in Sword and Shield for shiny hunting.
 
 [![Alt text](https://img.youtube.com/vi/I9DEk7lA5xM/0.jpg)](https://www.youtube.com/watch?v=I9DEk7lA5xM)
-
+Automated pokemon breeding in Sword and Shield for shiny hunting.
 
 
 ### Getting Started With Teensy
@@ -35,6 +34,7 @@ Automated pokemon breeding in Sword and Shield for shiny hunting.
 * Start with one egg in your party (third slot)
 * Do not have any other eggs in your party
 * Do not ride your bike
+* You should have a flame body pokemon in your party
 * Hatching steps required are variable in pokemon. This script is written for breeding Duraludon (one of the longest hatch times in the game). You can modify the charge cycles in the file Joystick.c `static const command step[]
 
 ### Thanks
