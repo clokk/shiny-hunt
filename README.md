@@ -29,7 +29,9 @@ Automated pokemon breeding in Sword and Shield for shiny hunting.
 * Fly to Bridge Field at the pokemon day care in the wild area and do not move
 * Have at least three pokemon in your party
 * Ensure that your Menu(X) is highlighting the Town Map 
+* Start with one egg in your party (third slot)
 * Do not have any other eggs in your party
+* Do not ride your bike
 
 ### Thanks
 * Special thanks to github user [bertrandom](https://github.com/bertrandom/snowball-thrower) who made a similar script for legend of zelda breathe of the wild. I learned how to approach this problem through his well written write up on [medium](https://medium.com/@bertrandom/automating-zelda-3b37127e24c8).
