@@ -16,5 +16,20 @@ Automated pokemon breeding in Sword and Shield for shiny hunting.
 ### LUFA
 * I included LUFA in this project which is required for the Teensy board to emulate the HORI Pokken Tournament Pro Pad for Wii U which the switch recognizes as a pro controller.
 * If LUFA is not working after cloning this repo, You can download the LUFA library in a zipped folder at the bottom of [this page](http://www.fourwalledcubicle.com/LUFA.php).
+* Once you unzip the library, rename it to LUFA and replace the LUFA subdirectory in the github project with your newly installed library
+
+### Compiling and Loading the Shiny Hunt
+* Open a terminal window in the `shiny-hunt` directory, type `make`, and hit enter to compile.
+* Open your Teensy Loader Application
+* Click on the Open HEX file button in the top left hand corner of the application
+* navigate to shiny-hunt/joystick.hex and click open
+* Press the button on the Teensy to load the shiny-hunt script. The Teensy Loader Application will let you know when the script has been loaded successfully.
+
+### Conditions required for the Script to run successfully in game
+* Fly to Bridge Field at the pokemon day care in the wild area and do not move
+* Have at least three pokemon in your party
+* Ensure that your Menu(X) is highlighting the Town Map 
+* Do not have any other eggs in your party
+
 ### Thanks
 * Special thanks to github user [bertrandom](https://github.com/bertrandom/snowball-thrower) who made a similar script for legend of zelda breathe of the wild. I learned how to approach this problem through his well written write up on [medium](https://medium.com/@bertrandom/automating-zelda-3b37127e24c8).
