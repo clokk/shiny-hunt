@@ -32,6 +32,7 @@ Automated pokemon breeding in Sword and Shield for shiny hunting.
 * Start with one egg in your party (third slot)
 * Do not have any other eggs in your party
 * Do not ride your bike
+* Hatching steps required are variable in pokemon. This script is written for breeding Duraludon (one of the longest hatch times in the game). You can modify the charge cycles in the file Joystick.c `static const command step[]
 
 ### Thanks
 * Special thanks to github user [bertrandom](https://github.com/bertrandom/snowball-thrower) who made a similar script for legend of zelda breathe of the wild. I learned how to approach this problem through his well written write up on [medium](https://medium.com/@bertrandom/automating-zelda-3b37127e24c8).
