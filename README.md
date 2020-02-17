@@ -26,7 +26,7 @@ Automated pokemon breeding in Sword and Shield for shiny hunting.
 * Open your Teensy Loader Application
 * Click on the Open HEX file button in the top left hand corner of the application
 * navigate to shiny-hunt/joystick.hex and click open
-* Press the button on the Teensy to load the shiny-hunt script. The Teensy Loader Application will let you know when the script has been loaded successfully.
+* Press the button on the Teensy board to load the shiny-hunt script. The Teensy Loader Application will let you know when the script has been loaded successfully.
 
 ### Conditions required for the Script to run successfully in game
 * Fly to Bridge Field at the pokemon day care in the wild area and do not move
